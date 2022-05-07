@@ -1,2 +1,2 @@
 ### Hi there 👋
-I'm PirMei, a FOSS enthusiast from Germany 🇩🇪
+I'm PirMei, a FOSS and privacy enthusiast from Germany 🇩🇪
